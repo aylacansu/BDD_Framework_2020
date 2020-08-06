@@ -1,0 +1,95 @@
+{
+  "statistic" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 5,
+    "unknown" : 0,
+    "total" : 5
+  },
+  "time" : {
+    "minDuration" : 0,
+    "maxDuration" : 1,
+    "sumDuration" : 1,
+    "start" : 1596151484909,
+    "stop" : 1596151487077,
+    "duration" : 2168
+  },
+  "children" : [ {
+    "uid" : "c5cb3af541e2148a",
+    "name" : "Verify invalid login from mesenger page",
+    "time" : {
+      "minDuration" : 0,
+      "maxDuration" : 1,
+      "sumDuration" : 1,
+      "start" : 1596151484909,
+      "stop" : 1596151487077,
+      "duration" : 2168
+    },
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    },
+    "type" : "TestGroupNode",
+    "children" : [ {
+      "uid" : "576150713dc190b0",
+      "name" : "Given I am on messenger page",
+      "time" : {
+        "start" : 1596151484909,
+        "stop" : 1596151484910,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "flaky" : false,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "3560a13724eec88e",
+      "name" : "When I enter ilhanturkmen@siliconelabs.com into username field on the messenger page",
+      "time" : {
+        "start" : 1596151485142,
+        "stop" : 1596151485142,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "flaky" : false,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "f3ad9170739a96ae",
+      "name" : "And I click on login button on messenger page",
+      "time" : {
+        "start" : 1596151487055,
+        "stop" : 1596151487055,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "flaky" : false,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "a1ff54326baca68b",
+      "name" : "And I enter test1234 into password field on the messenger page",
+      "time" : {
+        "start" : 1596151485202,
+        "stop" : 1596151485202,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "flaky" : false,
+      "type" : "TestCaseNode"
+    }, {
+      "uid" : "b40c5d2e83843525",
+      "name" : "Then I verify invalid login message on sign in page",
+      "time" : {
+        "start" : 1596151487077,
+        "stop" : 1596151487077,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "flaky" : false,
+      "type" : "TestCaseNode"
+    } ]
+  } ]
+}

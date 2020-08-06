@@ -1,0 +1,51 @@
+{
+  "uid" : "f3ad9170739a96ae",
+  "name" : "And I click on login button on messenger page",
+  "fullName" : "Verify invalid login from mesenger page.And I click on login button on messenger page",
+  "historyId" : "e9d8c2c8a553b37118c549ec8170d9a7",
+  "time" : {
+    "start" : 1596151487055,
+    "stop" : 1596151487055,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "description" : "",
+  "descriptionHtml" : "",
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Messenger page feature"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "host",
+    "value" : "Is-MacBook-Pro"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "story",
+    "value" : "Verify invalid login from mesenger page"
+  }, {
+    "name" : "thread",
+    "value" : "3210@Is-MacBook-Pro.main(1)"
+  }, {
+    "name" : "suite",
+    "value" : "Verify invalid login from mesenger page"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify invalid login from mesenger page"
+  }, {
+    "name" : "testMethod",
+    "value" : "And I click on login button on messenger page"
+  }, {
+    "name" : "package",
+    "value" : "Verify invalid login from mesenger page"
+  } ],
+  "parameters" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "normal",
+    "categories" : [ ]
+  }
+}

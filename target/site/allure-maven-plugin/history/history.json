@@ -1,0 +1,97 @@
+{
+  "ae3b267b18e9e9c462b32f70d8522650" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b40c5d2e83843525",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596151487077,
+        "stop" : 1596151487077,
+        "duration" : 0
+      }
+    } ]
+  },
+  "8d21ce63b984b189b682aa0734484c72" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a1ff54326baca68b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596151485202,
+        "stop" : 1596151485202,
+        "duration" : 0
+      }
+    } ]
+  },
+  "28cc5e2b56ac568aa418cf80b0e4323b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3560a13724eec88e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596151485142,
+        "stop" : 1596151485142,
+        "duration" : 0
+      }
+    } ]
+  },
+  "e9d8c2c8a553b37118c549ec8170d9a7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f3ad9170739a96ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596151487055,
+        "stop" : 1596151487055,
+        "duration" : 0
+      }
+    } ]
+  },
+  "4baca1c7122e6b1b9411a2a5c593247a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "576150713dc190b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1596151484909,
+        "stop" : 1596151484910,
+        "duration" : 1
+      }
+    } ]
+  }
+}
